@@ -21,8 +21,8 @@
     },
     {
         "name": "SBC",
-        "url": "https://sbc-prod-dub-ak.akamaized.net/out/v1/0ae2029d5a724bfb9ade2cb6cd77cb5c/index.mpd?aws.manifestfilter=video_height:144-1080",
-        "key": "8ac5dcebd8f5482b969431eb58febeba:0546bde183eb34366fa83b22fef26524"
+        "url": "[https://sbc-prod-dub-ak.akamaized.net/out/v1/0ae2029d5a724bfb9ade2cb6cd77cb5c/index.mpd?aws.manifestfilter=video_height:144-1080",
+        "key": "e20f00b7738e4505911905bd203b4a9e:539734160abf3d0d0db1be5518a33386"
     },
     {
         "name": "Khaleeji",
